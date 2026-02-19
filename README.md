@@ -4,7 +4,7 @@
 A HIPAA-aligned zero trust web application for a healthcare company handling sensitive patient data.
 
 ## Architecture Overview
-![Architecture Diagram](screenshots/P2-architecture-diagram.png)
+![Architecture Diagram](docs/screenshots/P2-architecture-diagram.png)
 
 ### Phase 1 — Network Foundation
 - Multi-AZ VPC with public, private app, and private database subnets
