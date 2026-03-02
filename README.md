@@ -1,4 +1,4 @@
-# Project 02 — Secure Multi-Tier Web Application with Zero Trust Architecture
+# Secure Multi-Tier Web Application with Zero Trust Architecture
 
 ## Business Context
 
